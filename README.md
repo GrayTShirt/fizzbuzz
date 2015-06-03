@@ -6,4 +6,4 @@ fresh college graduate applying to his first job.
 
 If the programmer uses a Makefile and a Git repo for the
 exercise, I consider them well on their way to understanding
-the various asspects to working with a team.
+the various asspects to working on a development team.
